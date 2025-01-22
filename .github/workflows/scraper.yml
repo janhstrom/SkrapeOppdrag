@@ -8,16 +8,18 @@ on:
 
 jobs:
   scrape:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-22.04
+    permissions:
+      contents: write  # Legg til denne linjen
     timeout-minutes: 15
     
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3  # Oppdater til v3
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}  # Legg til denne linjen
-          
+          fetch-depth: 0
+      
       - name: Set up Node.js
-        uses: actions/setup-node@v2
+        uses: actions/setup-node@v3  # Oppdater til v3
         with:
           node-version: '18'
           
@@ -29,16 +31,10 @@ jobs:
         env:
           NODE_ENV: production
           
-      - name: Commit changes
-        if: success()
+      - name: Commit and push changes
         run: |
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git add .
           git commit -m "Update job data" || echo "No changes"
-      
-      - name: Push changes
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: ${{ github.ref }}
+          git push
