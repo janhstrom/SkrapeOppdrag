@@ -1,0 +1,34 @@
+name: Run Scrapers
+
+on:
+  schedule:
+    - cron: '0 08 * * *'  # Kjører 08:00 UTC
+    - cron: '0 12 * * *'  # Kjører 12:00 UTC
+  workflow_dispatch:  # Lar deg kjøre manuelt fra GitHub
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      
+      - name: Set up Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: '18'
+          
+      - name: Install dependencies
+        run: npm install
+        
+      - name: Run scrapers
+        run: node scheduler.js
+        env:
+          NODE_ENV: production
+          
+      - name: Commit changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add .
+          git commit -m "Update job data" || echo "No changes"
+          git push
