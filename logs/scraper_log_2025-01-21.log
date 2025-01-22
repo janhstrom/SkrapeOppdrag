@@ -1,0 +1,1307 @@
+
+Starting scrapeExperis_xls.js at 2025-01-21T10:21:00.008Z
+
+Starting scrapeForte_xls.js at 2025-01-21T10:21:00.012Z
+
+Starting scrapeWitted_xls.js at 2025-01-21T10:21:00.013Z
+
+Starting scrapeVerama_xls.js at 2025-01-21T10:21:00.017Z
+
+Starting scrapeKons_xls.js at 2025-01-21T10:21:00.020Z
+
+Starting scrapeEmagine_xls.js at 2025-01-21T10:21:00.022Z
+Starting script...
+Starting script...
+Starting script...
+Starting script...
+Starting script...
+No cookies to click.
+Page loaded.
+Waiting for job elements...
+Found 10 jobs.
+An error occurred: Excel save error: Out of bounds. Excel supports columns from 1 to 16384
+Script finished!
+Cookie popup closed.
+Found 9 potential jobs.
+Navigating to job detail page: https://experis.recman.no/job.php?job_id=415932
+Scroll finished.
+Found 5 active jobs.
+An error occurred: Excel save error: Out of bounds. Excel supports columns from 1 to 16384
+Found 18 jobs.
+Fetched details for: For vår kunde SpareBank 1 Utvikling søker vi Data Engineer/utvikler til antisvindelprosjekt. (250123)
+Navigating to job detail page: https://experis.recman.no/job.php?job_id=415930
+Found cookie button. Clicking...
+Waiting for spinner to disappear...
+Spinner removed. Continuing...
+Scrolling through page to load more jobs...
+Finished!
+Fetched details for: For vår kunde SpareBank 1 Utvikling søker vi Dataanalytiker til antisvindelprosjekt. (250124)
+Navigating to job detail page: https://experis.recman.no/job.php?job_id=415908
+Fetched details for: Skyplattformutvikler til offentlig kunde (250122)
+Navigating to job detail page: https://experis.recman.no/job.php?job_id=415800
+Fetched details for: For vår kunde Sparebank 1 søker vi en Teamleder/leder for Fag- og støttesystemer (250121)
+Navigating to job detail page: https://experis.recman.no/job.php?job_id=415576
+Page loaded.
+Cookie popup closed.
+Fetched details for: Senior Prosjekt-/prosessleder til Oslo Kommune (250118)
+Navigating to job detail page: https://experis.recman.no/job.php?job_id=415501
+Location filter opened.
+Fetched details for: Frontend-utvikler (250115)
+Navigating to job detail page: https://experis.recman.no/job.php?job_id=415201
+Fetched details for: Senior System Developer (250112)
+Navigating to job detail page: https://experis.recman.no/job.php?job_id=414915
+Fetched details for: Generelle sikkerhetstjenester (250107)
+Navigating to job detail page: https://experis.recman.no/job.php?job_id=413892
+'Norway' entered.
+Fetched details for: Software Engineer (241238)
+Total detailed jobs fetched: 9
+An error occurred: Excel save error: Out of bounds. Excel supports columns from 1 to 16384
+Script finished.
+First option selected.
+Search button clicked.
+Waiting 10000ms: Waiting for search results...
+Found 13 jobs in Norway from API call #1
+Waiting for job listings...
+Found 10 jobs.
+An error occurred: Error: Excel save error: Out of bounds. Excel supports columns from 1 to 16384
+    at saveToExcel (/Users/janhstrom/puppeteer-scraper/excelUtils.js:108:15)
+    at async /Users/janhstrom/puppeteer-scraper/scrapeEmagine_xls.js:82:29
+Script finished!
+Total 13 jobs collected after API calls.
+A critical error occurred: Error: Excel save error: Out of bounds. Excel supports columns from 1 to 16384
+    at saveToExcel (/Users/janhstrom/puppeteer-scraper/excelUtils.js:108:15)
+    at async main (/Users/janhstrom/puppeteer-scraper/scrapeVerama_xls.js:143:29)
+Browser closed.
+Processed 18 jobs.
+An error occurred: Excel save error: Out of bounds. Excel supports columns from 1 to 16384
+Script finished.
+
+Starting scrapeExperis_xls.js at 2025-01-21T10:22:00.007Z
+
+Starting scrapeWitted_xls.js at 2025-01-21T10:22:00.010Z
+
+Starting scrapeForte_xls.js at 2025-01-21T10:22:00.009Z
+
+Starting scrapeKons_xls.js at 2025-01-21T10:22:00.022Z
+
+Starting scrapeVerama_xls.js at 2025-01-21T10:22:00.016Z
+
+Starting scrapeEmagine_xls.js at 2025-01-21T10:22:00.028Z
+Starting script...
+Starting script...
+Starting script...
+Starting script...
+Starting script...
+Page loaded.
+Cookie popup closed.
+Found 9 potential jobs.
+Navigating to job detail page: https://experis.recman.no/job.php?job_id=415932
+Fetched details for: For vår kunde SpareBank 1 Utvikling søker vi Data Engineer/utvikler til antisvindelprosjekt. (250123)
+Navigating to job detail page: https://experis.recman.no/job.php?job_id=415930
+Fetched details for: For vår kunde SpareBank 1 Utvikling søker vi Dataanalytiker til antisvindelprosjekt. (250124)
+Navigating to job detail page: https://experis.recman.no/job.php?job_id=415908
+Fetched details for: Skyplattformutvikler til offentlig kunde (250122)
+Navigating to job detail page: https://experis.recman.no/job.php?job_id=415800
+No cookies to click.
+Fetched details for: For vår kunde Sparebank 1 søker vi en Teamleder/leder for Fag- og støttesystemer (250121)
+Navigating to job detail page: https://experis.recman.no/job.php?job_id=415576
+Fetched details for: Senior Prosjekt-/prosessleder til Oslo Kommune (250118)
+Navigating to job detail page: https://experis.recman.no/job.php?job_id=415501
+Fetched details for: Frontend-utvikler (250115)
+Navigating to job detail page: https://experis.recman.no/job.php?job_id=415201
+Waiting for job elements...
+Found 10 jobs.
+An error occurred: Excel save error: Out of bounds. Excel supports columns from 1 to 16384
+Scroll finished.
+Found 5 active jobs.
+Fetched details for: Senior System Developer (250112)
+Navigating to job detail page: https://experis.recman.no/job.php?job_id=414915
+An error occurred: Excel save error: Out of bounds. Excel supports columns from 1 to 16384
+Found 18 jobs.
+Found cookie button. Clicking...
+Waiting for spinner to disappear...
+Spinner removed. Continuing...
+Scrolling through page to load more jobs...
+Script finished!
+Finished!
+Fetched details for: Generelle sikkerhetstjenester (250107)
+Navigating to job detail page: https://experis.recman.no/job.php?job_id=413892
+Fetched details for: Software Engineer (241238)
+Total detailed jobs fetched: 9
+An error occurred: Excel save error: Out of bounds. Excel supports columns from 1 to 16384
+Script finished.
+Page loaded.
+Cookie popup closed.
+Location filter opened.
+'Norway' entered.
+First option selected.
+Search button clicked.
+Waiting 10000ms: Waiting for search results...
+Found 13 jobs in Norway from API call #1
+Waiting for job listings...
+Found 10 jobs.
+An error occurred: Error: Excel save error: Out of bounds. Excel supports columns from 1 to 16384
+    at saveToExcel (/Users/janhstrom/puppeteer-scraper/excelUtils.js:108:15)
+    at async /Users/janhstrom/puppeteer-scraper/scrapeEmagine_xls.js:82:29
+Script finished!
+Total 13 jobs collected after API calls.
+A critical error occurred: Error: Excel save error: Out of bounds. Excel supports columns from 1 to 16384
+    at saveToExcel (/Users/janhstrom/puppeteer-scraper/excelUtils.js:108:15)
+    at async main (/Users/janhstrom/puppeteer-scraper/scrapeVerama_xls.js:143:29)
+Browser closed.
+Processed 18 jobs.
+An error occurred: Excel save error: Out of bounds. Excel supports columns from 1 to 16384
+Script finished.
+
+Starting scrapeExperis_xls.js at 2025-01-21T10:23:00.006Z
+
+Starting scrapeForte_xls.js at 2025-01-21T10:23:00.008Z
+
+Starting scrapeWitted_xls.js at 2025-01-21T10:23:00.010Z
+
+Starting scrapeVerama_xls.js at 2025-01-21T10:23:00.014Z
+
+Starting scrapeKons_xls.js at 2025-01-21T10:23:00.018Z
+
+Starting scrapeEmagine_xls.js at 2025-01-21T10:23:00.022Z
+Starting script...
+Starting script...
+Starting script...
+Starting script...
+Starting script...
+Page loaded.
+No cookies to click.
+Cookie popup closed.
+Found 9 potential jobs.
+Navigating to job detail page: https://experis.recman.no/job.php?job_id=415932
+Fetched details for: For vår kunde SpareBank 1 Utvikling søker vi Data Engineer/utvikler til antisvindelprosjekt. (250123)
+Navigating to job detail page: https://experis.recman.no/job.php?job_id=415930
+Fetched details for: For vår kunde SpareBank 1 Utvikling søker vi Dataanalytiker til antisvindelprosjekt. (250124)
+Navigating to job detail page: https://experis.recman.no/job.php?job_id=415908
+Fetched details for: Skyplattformutvikler til offentlig kunde (250122)
+Navigating to job detail page: https://experis.recman.no/job.php?job_id=415800
+Fetched details for: For vår kunde Sparebank 1 søker vi en Teamleder/leder for Fag- og støttesystemer (250121)
+Navigating to job detail page: https://experis.recman.no/job.php?job_id=415576
+Scroll finished.
+Found 5 active jobs.
+Fetched details for: Senior Prosjekt-/prosessleder til Oslo Kommune (250118)
+Navigating to job detail page: https://experis.recman.no/job.php?job_id=415501
+An error occurred: Excel save error: Out of bounds. Excel supports columns from 1 to 16384
+Found 18 jobs.
+Finished!
+Fetched details for: Frontend-utvikler (250115)
+Navigating to job detail page: https://experis.recman.no/job.php?job_id=415201
+Fetched details for: Senior System Developer (250112)
+Navigating to job detail page: https://experis.recman.no/job.php?job_id=414915
+Found cookie button. Clicking...
+Waiting for spinner to disappear...
+Spinner removed. Continuing...
+Scrolling through page to load more jobs...
+Fetched details for: Generelle sikkerhetstjenester (250107)
+Navigating to job detail page: https://experis.recman.no/job.php?job_id=413892
+Waiting for job elements...
+Found 10 jobs.
+An error occurred: Excel save error: Out of bounds. Excel supports columns from 1 to 16384
+Script finished!
+Fetched details for: Software Engineer (241238)
+Total detailed jobs fetched: 9
+An error occurred: Excel save error: Out of bounds. Excel supports columns from 1 to 16384
+Script finished.
+Page loaded.
+Cookie popup closed.
+Location filter opened.
+'Norway' entered.
+First option selected.
+Search button clicked.
+Waiting 10000ms: Waiting for search results...
+Waiting for job listings...
+Found 10 jobs.
+An error occurred: Error: Excel save error: Out of bounds. Excel supports columns from 1 to 16384
+    at saveToExcel (/Users/janhstrom/puppeteer-scraper/excelUtils.js:108:15)
+    at async /Users/janhstrom/puppeteer-scraper/scrapeEmagine_xls.js:82:29
+Script finished!
+Found 13 jobs in Norway from API call #1
+Total 13 jobs collected after API calls.
+A critical error occurred: Error: Excel save error: Out of bounds. Excel supports columns from 1 to 16384
+    at saveToExcel (/Users/janhstrom/puppeteer-scraper/excelUtils.js:108:15)
+    at async main (/Users/janhstrom/puppeteer-scraper/scrapeVerama_xls.js:143:29)
+Browser closed.
+Processed 18 jobs.
+An error occurred: Excel save error: Out of bounds. Excel supports columns from 1 to 16384
+Script finished.
+
+Starting scrapeExperis_xls.js at 2025-01-21T10:24:00.007Z
+
+Starting scrapeForte_xls.js at 2025-01-21T10:24:00.009Z
+
+Starting scrapeWitted_xls.js at 2025-01-21T10:24:00.011Z
+
+Starting scrapeVerama_xls.js at 2025-01-21T10:24:00.012Z
+
+Starting scrapeKons_xls.js at 2025-01-21T10:24:00.014Z
+
+Starting scrapeEmagine_xls.js at 2025-01-21T10:24:00.021Z
+Starting script...
+Starting script...
+Starting script...
+Starting script...
+Starting script...
+Page loaded.
+Cookie popup closed.
+Found 9 potential jobs.
+Navigating to job detail page: https://experis.recman.no/job.php?job_id=415932
+Fetched details for: For vår kunde SpareBank 1 Utvikling søker vi Data Engineer/utvikler til antisvindelprosjekt. (250123)
+Navigating to job detail page: https://experis.recman.no/job.php?job_id=415930
+Fetched details for: For vår kunde SpareBank 1 Utvikling søker vi Dataanalytiker til antisvindelprosjekt. (250124)
+Navigating to job detail page: https://experis.recman.no/job.php?job_id=415908
+Fetched details for: Skyplattformutvikler til offentlig kunde (250122)
+Navigating to job detail page: https://experis.recman.no/job.php?job_id=415800
+Fetched details for: For vår kunde Sparebank 1 søker vi en Teamleder/leder for Fag- og støttesystemer (250121)
+Navigating to job detail page: https://experis.recman.no/job.php?job_id=415576
+No cookies to click.
+Fetched details for: Senior Prosjekt-/prosessleder til Oslo Kommune (250118)
+Navigating to job detail page: https://experis.recman.no/job.php?job_id=415501
+Fetched details for: Frontend-utvikler (250115)
+Navigating to job detail page: https://experis.recman.no/job.php?job_id=415201
+Fetched details for: Senior System Developer (250112)
+Navigating to job detail page: https://experis.recman.no/job.php?job_id=414915
+Fetched details for: Generelle sikkerhetstjenester (250107)
+Navigating to job detail page: https://experis.recman.no/job.php?job_id=413892
+Fetched details for: Software Engineer (241238)
+Total detailed jobs fetched: 9
+An error occurred: Excel save error: Out of bounds. Excel supports columns from 1 to 16384
+Script finished.
+Scroll finished.
+Found 5 active jobs.
+An error occurred: Excel save error: Out of bounds. Excel supports columns from 1 to 16384
+Finished!
+Waiting for job elements...
+Found 10 jobs.
+An error occurred: Excel save error: Out of bounds. Excel supports columns from 1 to 16384
+Script finished!
+Found 18 jobs.
+Found cookie button. Clicking...
+Waiting for spinner to disappear...
+Spinner removed. Continuing...
+Scrolling through page to load more jobs...
+Page loaded.
+Cookie popup closed.
+Location filter opened.
+'Norway' entered.
+First option selected.
+Search button clicked.
+Waiting 10000ms: Waiting for search results...
+Found 13 jobs in Norway from API call #1
+Waiting for job listings...
+Found 10 jobs.
+An error occurred: Error: Excel save error: Out of bounds. Excel supports columns from 1 to 16384
+    at saveToExcel (/Users/janhstrom/puppeteer-scraper/excelUtils.js:108:15)
+    at async /Users/janhstrom/puppeteer-scraper/scrapeEmagine_xls.js:82:29
+Script finished!
+Total 13 jobs collected after API calls.
+A critical error occurred: Error: Excel save error: Out of bounds. Excel supports columns from 1 to 16384
+    at saveToExcel (/Users/janhstrom/puppeteer-scraper/excelUtils.js:108:15)
+    at async main (/Users/janhstrom/puppeteer-scraper/scrapeVerama_xls.js:143:29)
+Browser closed.
+Processed 18 jobs.
+An error occurred: Excel save error: Out of bounds. Excel supports columns from 1 to 16384
+Script finished.
+
+Starting scrapeExperis_xls.js at 2025-01-21T10:25:00.005Z
+
+Starting scrapeWitted_xls.js at 2025-01-21T10:25:00.009Z
+
+Starting scrapeForte_xls.js at 2025-01-21T10:25:00.008Z
+
+Starting scrapeVerama_xls.js at 2025-01-21T10:25:00.010Z
+
+Starting scrapeEmagine_xls.js at 2025-01-21T10:25:00.018Z
+
+Starting scrapeKons_xls.js at 2025-01-21T10:25:00.015Z
+Starting script...
+Starting script...
+Starting script...
+Starting script...
+Starting script...
+Page loaded.
+Cookie popup closed.
+Found 9 potential jobs.
+Navigating to job detail page: https://experis.recman.no/job.php?job_id=415932
+Fetched details for: For vår kunde SpareBank 1 Utvikling søker vi Data Engineer/utvikler til antisvindelprosjekt. (250123)
+Navigating to job detail page: https://experis.recman.no/job.php?job_id=415930
+Fetched details for: For vår kunde SpareBank 1 Utvikling søker vi Dataanalytiker til antisvindelprosjekt. (250124)
+Navigating to job detail page: https://experis.recman.no/job.php?job_id=415908
+Fetched details for: Skyplattformutvikler til offentlig kunde (250122)
+Navigating to job detail page: https://experis.recman.no/job.php?job_id=415800
+Fetched details for: For vår kunde Sparebank 1 søker vi en Teamleder/leder for Fag- og støttesystemer (250121)
+Navigating to job detail page: https://experis.recman.no/job.php?job_id=415576
+Fetched details for: Senior Prosjekt-/prosessleder til Oslo Kommune (250118)
+Navigating to job detail page: https://experis.recman.no/job.php?job_id=415501
+No cookies to click.
+Fetched details for: Frontend-utvikler (250115)
+Navigating to job detail page: https://experis.recman.no/job.php?job_id=415201
+Fetched details for: Senior System Developer (250112)
+Navigating to job detail page: https://experis.recman.no/job.php?job_id=414915
+Fetched details for: Generelle sikkerhetstjenester (250107)
+Navigating to job detail page: https://experis.recman.no/job.php?job_id=413892
+Fetched details for: Software Engineer (241238)
+Total detailed jobs fetched: 9
+An error occurred: Excel save error: Out of bounds. Excel supports columns from 1 to 16384
+Script finished.
+Scroll finished.
+Found 5 active jobs.
+An error occurred: Excel save error: Out of bounds. Excel supports columns from 1 to 16384
+Finished!
+Found 18 jobs.
+Waiting for job elements...
+Found 10 jobs.
+An error occurred: Excel save error: Out of bounds. Excel supports columns from 1 to 16384
+Script finished!
+Found cookie button. Clicking...
+Waiting for spinner to disappear...
+Spinner removed. Continuing...
+Scrolling through page to load more jobs...
+Page loaded.
+Cookie popup closed.
+Location filter opened.
+'Norway' entered.
+First option selected.
+Search button clicked.
+Waiting 10000ms: Waiting for search results...
+Found 13 jobs in Norway from API call #1
+Waiting for job listings...
+Found 10 jobs.
+An error occurred: Error: Excel save error: Out of bounds. Excel supports columns from 1 to 16384
+    at saveToExcel (/Users/janhstrom/puppeteer-scraper/excelUtils.js:108:15)
+    at async /Users/janhstrom/puppeteer-scraper/scrapeEmagine_xls.js:82:29
+Script finished!
+Total 13 jobs collected after API calls.
+A critical error occurred: Error: Excel save error: Out of bounds. Excel supports columns from 1 to 16384
+    at saveToExcel (/Users/janhstrom/puppeteer-scraper/excelUtils.js:108:15)
+    at async main (/Users/janhstrom/puppeteer-scraper/scrapeVerama_xls.js:143:29)
+Browser closed.
+Processed 18 jobs.
+An error occurred: Excel save error: Out of bounds. Excel supports columns from 1 to 16384
+Script finished.
+
+Starting scrapeExperis_xls.js at 2025-01-21T10:26:00.007Z
+
+Starting scrapeForte_xls.js at 2025-01-21T10:26:00.010Z
+
+Starting scrapeWitted_xls.js at 2025-01-21T10:26:00.021Z
+
+Starting scrapeVerama_xls.js at 2025-01-21T10:26:00.027Z
+
+Starting scrapeKons_xls.js at 2025-01-21T10:26:00.029Z
+
+Starting scrapeEmagine_xls.js at 2025-01-21T10:26:00.030Z
+Starting script...
+Starting script...
+Starting script...
+Starting script...
+Starting script...
+Page loaded.
+Cookie popup closed.
+Found 9 potential jobs.
+Navigating to job detail page: https://experis.recman.no/job.php?job_id=415932
+Fetched details for: For vår kunde SpareBank 1 Utvikling søker vi Data Engineer/utvikler til antisvindelprosjekt. (250123)
+Navigating to job detail page: https://experis.recman.no/job.php?job_id=415930
+Fetched details for: For vår kunde SpareBank 1 Utvikling søker vi Dataanalytiker til antisvindelprosjekt. (250124)
+Navigating to job detail page: https://experis.recman.no/job.php?job_id=415908
+Fetched details for: Skyplattformutvikler til offentlig kunde (250122)
+Navigating to job detail page: https://experis.recman.no/job.php?job_id=415800
+Fetched details for: For vår kunde Sparebank 1 søker vi en Teamleder/leder for Fag- og støttesystemer (250121)
+Navigating to job detail page: https://experis.recman.no/job.php?job_id=415576
+Fetched details for: Senior Prosjekt-/prosessleder til Oslo Kommune (250118)
+Navigating to job detail page: https://experis.recman.no/job.php?job_id=415501
+Fetched details for: Frontend-utvikler (250115)
+Navigating to job detail page: https://experis.recman.no/job.php?job_id=415201
+Fetched details for: Senior System Developer (250112)
+Navigating to job detail page: https://experis.recman.no/job.php?job_id=414915
+Fetched details for: Generelle sikkerhetstjenester (250107)
+Navigating to job detail page: https://experis.recman.no/job.php?job_id=413892
+Fetched details for: Software Engineer (241238)
+Total detailed jobs fetched: 9
+An error occurred: Excel save error: Out of bounds. Excel supports columns from 1 to 16384
+Script finished.
+Found 18 jobs.
+Waiting for job elements...
+Found 10 jobs.
+An error occurred: Excel save error: Out of bounds. Excel supports columns from 1 to 16384
+Script finished!
+Found cookie button. Clicking...
+Waiting for spinner to disappear...
+Spinner removed. Continuing...
+Scrolling through page to load more jobs...
+No cookies to click.
+Page loaded.
+Cookie popup closed.
+Location filter opened.
+Scroll finished.
+Found 5 active jobs.
+An error occurred: Excel save error: Out of bounds. Excel supports columns from 1 to 16384
+Finished!
+'Norway' entered.
+First option selected.
+Search button clicked.
+Waiting 10000ms: Waiting for search results...
+Found 13 jobs in Norway from API call #1
+Waiting for job listings...
+Found 10 jobs.
+An error occurred: Error: Excel save error: Out of bounds. Excel supports columns from 1 to 16384
+    at saveToExcel (/Users/janhstrom/puppeteer-scraper/excelUtils.js:108:15)
+    at async /Users/janhstrom/puppeteer-scraper/scrapeEmagine_xls.js:82:29
+Script finished!
+Total 13 jobs collected after API calls.
+A critical error occurred: Error: Excel save error: Out of bounds. Excel supports columns from 1 to 16384
+    at saveToExcel (/Users/janhstrom/puppeteer-scraper/excelUtils.js:108:15)
+    at async main (/Users/janhstrom/puppeteer-scraper/scrapeVerama_xls.js:143:29)
+Browser closed.
+Processed 18 jobs.
+An error occurred: Excel save error: Out of bounds. Excel supports columns from 1 to 16384
+Script finished.
+
+Starting scrapeExperis_xls.js at 2025-01-21T10:27:00.007Z
+
+Starting scrapeKons_xls.js at 2025-01-21T10:27:00.017Z
+
+Starting scrapeWitted_xls.js at 2025-01-21T10:27:00.013Z
+
+Starting scrapeForte_xls.js at 2025-01-21T10:27:00.009Z
+
+Starting scrapeVerama_xls.js at 2025-01-21T10:27:00.014Z
+
+Starting scrapeEmagine_xls.js at 2025-01-21T10:27:00.024Z
+Starting script...
+Starting script...
+Starting script...
+Starting script...
+Starting script...
+Page loaded.
+Cookie popup closed.
+Found 9 potential jobs.
+Navigating to job detail page: https://experis.recman.no/job.php?job_id=415932
+Fetched details for: For vår kunde SpareBank 1 Utvikling søker vi Data Engineer/utvikler til antisvindelprosjekt. (250123)
+Navigating to job detail page: https://experis.recman.no/job.php?job_id=415930
+Fetched details for: For vår kunde SpareBank 1 Utvikling søker vi Dataanalytiker til antisvindelprosjekt. (250124)
+Navigating to job detail page: https://experis.recman.no/job.php?job_id=415908
+Fetched details for: Skyplattformutvikler til offentlig kunde (250122)
+Navigating to job detail page: https://experis.recman.no/job.php?job_id=415800
+Fetched details for: For vår kunde Sparebank 1 søker vi en Teamleder/leder for Fag- og støttesystemer (250121)
+Navigating to job detail page: https://experis.recman.no/job.php?job_id=415576
+Fetched details for: Senior Prosjekt-/prosessleder til Oslo Kommune (250118)
+Navigating to job detail page: https://experis.recman.no/job.php?job_id=415501
+Fetched details for: Frontend-utvikler (250115)
+Navigating to job detail page: https://experis.recman.no/job.php?job_id=415201
+Fetched details for: Senior System Developer (250112)
+Navigating to job detail page: https://experis.recman.no/job.php?job_id=414915
+No cookies to click.
+Fetched details for: Generelle sikkerhetstjenester (250107)
+Navigating to job detail page: https://experis.recman.no/job.php?job_id=413892
+Fetched details for: Software Engineer (241238)
+Total detailed jobs fetched: 9
+An error occurred: Excel save error: Out of bounds. Excel supports columns from 1 to 16384
+Script finished.
+Found 18 jobs.
+Scroll finished.
+Found 5 active jobs.
+An error occurred: Excel save error: Out of bounds. Excel supports columns from 1 to 16384
+Found cookie button. Clicking...
+Waiting for spinner to disappear...
+Spinner removed. Continuing...
+Scrolling through page to load more jobs...
+Finished!
+Waiting for job elements...
+Found 10 jobs.
+An error occurred: Excel save error: Out of bounds. Excel supports columns from 1 to 16384
+Script finished!
+Page loaded.
+Cookie popup closed.
+Location filter opened.
+'Norway' entered.
+First option selected.
+Search button clicked.
+Waiting 10000ms: Waiting for search results...
+Found 13 jobs in Norway from API call #1
+Waiting for job listings...
+Found 10 jobs.
+An error occurred: Error: Excel save error: Out of bounds. Excel supports columns from 1 to 16384
+    at saveToExcel (/Users/janhstrom/puppeteer-scraper/excelUtils.js:108:15)
+    at async /Users/janhstrom/puppeteer-scraper/scrapeEmagine_xls.js:82:29
+Script finished!
+Total 13 jobs collected after API calls.
+A critical error occurred: Error: Excel save error: Out of bounds. Excel supports columns from 1 to 16384
+    at saveToExcel (/Users/janhstrom/puppeteer-scraper/excelUtils.js:108:15)
+    at async main (/Users/janhstrom/puppeteer-scraper/scrapeVerama_xls.js:143:29)
+Browser closed.
+Processed 18 jobs.
+An error occurred: Excel save error: Out of bounds. Excel supports columns from 1 to 16384
+Script finished.
+
+Starting scrapeExperis_xls.js at 2025-01-21T10:28:00.004Z
+
+Starting scrapeForte_xls.js at 2025-01-21T10:28:00.006Z
+
+Starting scrapeWitted_xls.js at 2025-01-21T10:28:00.008Z
+
+Starting scrapeKons_xls.js at 2025-01-21T10:28:00.013Z
+
+Starting scrapeVerama_xls.js at 2025-01-21T10:28:00.010Z
+
+Starting scrapeEmagine_xls.js at 2025-01-21T10:28:00.019Z
+Starting script...
+Starting script...
+Starting script...
+Starting script...
+Starting script...
+Page loaded.
+Cookie popup closed.
+Found 9 potential jobs.
+Navigating to job detail page: https://experis.recman.no/job.php?job_id=415932
+No cookies to click.
+Fetched details for: For vår kunde SpareBank 1 Utvikling søker vi Data Engineer/utvikler til antisvindelprosjekt. (250123)
+Navigating to job detail page: https://experis.recman.no/job.php?job_id=415930
+Fetched details for: For vår kunde SpareBank 1 Utvikling søker vi Dataanalytiker til antisvindelprosjekt. (250124)
+Navigating to job detail page: https://experis.recman.no/job.php?job_id=415908
+Fetched details for: Skyplattformutvikler til offentlig kunde (250122)
+Navigating to job detail page: https://experis.recman.no/job.php?job_id=415800
+Fetched details for: For vår kunde Sparebank 1 søker vi en Teamleder/leder for Fag- og støttesystemer (250121)
+Navigating to job detail page: https://experis.recman.no/job.php?job_id=415576
+Found 18 jobs.
+Scroll finished.
+Found 5 active jobs.
+An error occurred: Excel save error: Out of bounds. Excel supports columns from 1 to 16384
+Finished!
+Waiting for job elements...
+Found 10 jobs.
+Fetched details for: Senior Prosjekt-/prosessleder til Oslo Kommune (250118)
+Navigating to job detail page: https://experis.recman.no/job.php?job_id=415501
+An error occurred: Excel save error: Out of bounds. Excel supports columns from 1 to 16384
+Script finished!
+Fetched details for: Frontend-utvikler (250115)
+Navigating to job detail page: https://experis.recman.no/job.php?job_id=415201
+Fetched details for: Senior System Developer (250112)
+Navigating to job detail page: https://experis.recman.no/job.php?job_id=414915
+Fetched details for: Generelle sikkerhetstjenester (250107)
+Navigating to job detail page: https://experis.recman.no/job.php?job_id=413892
+Fetched details for: Software Engineer (241238)
+Total detailed jobs fetched: 9
+An error occurred: Excel save error: Out of bounds. Excel supports columns from 1 to 16384
+Script finished.
+Page loaded.
+Cookie popup closed.
+Location filter opened.
+'Norway' entered.
+First option selected.
+Search button clicked.
+Waiting 10000ms: Waiting for search results...
+Found cookie button. Clicking...
+Waiting for spinner to disappear...
+Spinner removed. Continuing...
+Scrolling through page to load more jobs...
+Found 13 jobs in Norway from API call #1
+Waiting for job listings...
+Found 10 jobs.
+An error occurred: Error: Excel save error: Out of bounds. Excel supports columns from 1 to 16384
+    at saveToExcel (/Users/janhstrom/puppeteer-scraper/excelUtils.js:108:15)
+    at async /Users/janhstrom/puppeteer-scraper/scrapeEmagine_xls.js:82:29
+Script finished!
+Total 13 jobs collected after API calls.
+A critical error occurred: Error: Excel save error: Out of bounds. Excel supports columns from 1 to 16384
+    at saveToExcel (/Users/janhstrom/puppeteer-scraper/excelUtils.js:108:15)
+    at async main (/Users/janhstrom/puppeteer-scraper/scrapeVerama_xls.js:143:29)
+Browser closed.
+Processed 18 jobs.
+An error occurred: Excel save error: Out of bounds. Excel supports columns from 1 to 16384
+Script finished.
+
+Starting scrapeExperis_xls.js at 2025-01-21T10:29:00.006Z
+
+Starting scrapeWitted_xls.js at 2025-01-21T10:29:00.011Z
+
+Starting scrapeVerama_xls.js at 2025-01-21T10:29:00.013Z
+
+Starting scrapeEmagine_xls.js at 2025-01-21T10:29:00.022Z
+
+Starting scrapeKons_xls.js at 2025-01-21T10:29:00.017Z
+
+Starting scrapeForte_xls.js at 2025-01-21T10:29:00.009Z
+Starting script...
+Starting script...
+Starting script...
+Starting script...
+Starting script...
+Waiting for job elements...
+Found 10 jobs.
+An error occurred: Excel save error: Out of bounds. Excel supports columns from 1 to 16384
+Page loaded.
+Script finished!
+Found 18 jobs.
+Cookie popup closed.
+Found 9 potential jobs.
+Navigating to job detail page: https://experis.recman.no/job.php?job_id=415932
+Fetched details for: For vår kunde SpareBank 1 Utvikling søker vi Data Engineer/utvikler til antisvindelprosjekt. (250123)
+Navigating to job detail page: https://experis.recman.no/job.php?job_id=415930
+Found cookie button. Clicking...
+Waiting for spinner to disappear...
+Spinner removed. Continuing...
+Scrolling through page to load more jobs...
+Fetched details for: For vår kunde SpareBank 1 Utvikling søker vi Dataanalytiker til antisvindelprosjekt. (250124)
+Navigating to job detail page: https://experis.recman.no/job.php?job_id=415908
+Fetched details for: Skyplattformutvikler til offentlig kunde (250122)
+Navigating to job detail page: https://experis.recman.no/job.php?job_id=415800
+Fetched details for: For vår kunde Sparebank 1 søker vi en Teamleder/leder for Fag- og støttesystemer (250121)
+Navigating to job detail page: https://experis.recman.no/job.php?job_id=415576
+Fetched details for: Senior Prosjekt-/prosessleder til Oslo Kommune (250118)
+Navigating to job detail page: https://experis.recman.no/job.php?job_id=415501
+Fetched details for: Frontend-utvikler (250115)
+Navigating to job detail page: https://experis.recman.no/job.php?job_id=415201
+Page loaded.
+Cookie popup closed.
+Location filter opened.
+Fetched details for: Senior System Developer (250112)
+Navigating to job detail page: https://experis.recman.no/job.php?job_id=414915
+No cookies to click.
+Fetched details for: Generelle sikkerhetstjenester (250107)
+Navigating to job detail page: https://experis.recman.no/job.php?job_id=413892
+Fetched details for: Software Engineer (241238)
+Total detailed jobs fetched: 9
+'Norway' entered.
+An error occurred: Excel save error: Out of bounds. Excel supports columns from 1 to 16384
+Script finished.
+First option selected.
+Search button clicked.
+Waiting 10000ms: Waiting for search results...
+Scroll finished.
+Found 5 active jobs.
+An error occurred: Excel save error: Out of bounds. Excel supports columns from 1 to 16384
+Finished!
+Found 13 jobs in Norway from API call #1
+Waiting for job listings...
+Found 10 jobs.
+An error occurred: Error: Excel save error: Out of bounds. Excel supports columns from 1 to 16384
+    at saveToExcel (/Users/janhstrom/puppeteer-scraper/excelUtils.js:108:15)
+    at async /Users/janhstrom/puppeteer-scraper/scrapeEmagine_xls.js:82:29
+Script finished!
+Total 13 jobs collected after API calls.
+A critical error occurred: Error: Excel save error: Out of bounds. Excel supports columns from 1 to 16384
+    at saveToExcel (/Users/janhstrom/puppeteer-scraper/excelUtils.js:108:15)
+    at async main (/Users/janhstrom/puppeteer-scraper/scrapeVerama_xls.js:143:29)
+Browser closed.
+Processed 18 jobs.
+An error occurred: Excel save error: Out of bounds. Excel supports columns from 1 to 16384
+Script finished.
+
+Starting scrapeForte_xls.js at 2025-01-21T10:30:00.008Z
+
+Starting scrapeWitted_xls.js at 2025-01-21T10:30:00.010Z
+
+Starting scrapeExperis_xls.js at 2025-01-21T10:30:00.006Z
+
+Starting scrapeVerama_xls.js at 2025-01-21T10:30:00.011Z
+
+Starting scrapeKons_xls.js at 2025-01-21T10:30:00.013Z
+
+Starting scrapeEmagine_xls.js at 2025-01-21T10:30:00.019Z
+Starting script...
+Starting script...
+Starting script...
+Starting script...
+Starting script...
+Page loaded.
+Cookie popup closed.
+Found 9 potential jobs.
+Navigating to job detail page: https://experis.recman.no/job.php?job_id=415932
+Fetched details for: For vår kunde SpareBank 1 Utvikling søker vi Data Engineer/utvikler til antisvindelprosjekt. (250123)
+Navigating to job detail page: https://experis.recman.no/job.php?job_id=415930
+Fetched details for: For vår kunde SpareBank 1 Utvikling søker vi Dataanalytiker til antisvindelprosjekt. (250124)
+Navigating to job detail page: https://experis.recman.no/job.php?job_id=415908
+Fetched details for: Skyplattformutvikler til offentlig kunde (250122)
+Navigating to job detail page: https://experis.recman.no/job.php?job_id=415800
+Fetched details for: For vår kunde Sparebank 1 søker vi en Teamleder/leder for Fag- og støttesystemer (250121)
+Navigating to job detail page: https://experis.recman.no/job.php?job_id=415576
+Fetched details for: Senior Prosjekt-/prosessleder til Oslo Kommune (250118)
+Navigating to job detail page: https://experis.recman.no/job.php?job_id=415501
+Found 18 jobs.
+No cookies to click.
+Fetched details for: Frontend-utvikler (250115)
+Navigating to job detail page: https://experis.recman.no/job.php?job_id=415201
+Fetched details for: Senior System Developer (250112)
+Navigating to job detail page: https://experis.recman.no/job.php?job_id=414915
+Fetched details for: Generelle sikkerhetstjenester (250107)
+Navigating to job detail page: https://experis.recman.no/job.php?job_id=413892
+Fetched details for: Software Engineer (241238)
+Total detailed jobs fetched: 9
+An error occurred: Excel save error: Out of bounds. Excel supports columns from 1 to 16384
+Script finished.
+Found cookie button. Clicking...
+Waiting for spinner to disappear...
+Spinner removed. Continuing...
+Scrolling through page to load more jobs...
+Waiting for job elements...
+Found 10 jobs.
+An error occurred: Excel save error: Out of bounds. Excel supports columns from 1 to 16384
+Scroll finished.
+Found 5 active jobs.
+An error occurred: Excel save error: Out of bounds. Excel supports columns from 1 to 16384
+Script finished!
+Finished!
+Page loaded.
+Cookie popup closed.
+Location filter opened.
+'Norway' entered.
+First option selected.
+Search button clicked.
+Waiting 10000ms: Waiting for search results...
+Found 13 jobs in Norway from API call #1
+Waiting for job listings...
+Found 10 jobs.
+An error occurred: Error: Excel save error: Out of bounds. Excel supports columns from 1 to 16384
+    at saveToExcel (/Users/janhstrom/puppeteer-scraper/excelUtils.js:108:15)
+    at async /Users/janhstrom/puppeteer-scraper/scrapeEmagine_xls.js:82:29
+Script finished!
+Total 13 jobs collected after API calls.
+A critical error occurred: Error: Excel save error: Out of bounds. Excel supports columns from 1 to 16384
+    at saveToExcel (/Users/janhstrom/puppeteer-scraper/excelUtils.js:108:15)
+    at async main (/Users/janhstrom/puppeteer-scraper/scrapeVerama_xls.js:143:29)
+Browser closed.
+Processed 18 jobs.
+An error occurred: Excel save error: Out of bounds. Excel supports columns from 1 to 16384
+Script finished.
+
+Starting scrapeForte_xls.js at 2025-01-21T10:31:00.006Z
+
+Starting scrapeExperis_xls.js at 2025-01-21T10:31:00.005Z
+
+Starting scrapeWitted_xls.js at 2025-01-21T10:31:00.007Z
+
+Starting scrapeVerama_xls.js at 2025-01-21T10:31:00.008Z
+
+Starting scrapeKons_xls.js at 2025-01-21T10:31:00.012Z
+
+Starting scrapeEmagine_xls.js at 2025-01-21T10:31:00.016Z
+Starting script...
+Starting script...
+Starting script...
+Starting script...
+Starting script...
+Page loaded.
+Cookie popup closed.
+Found 9 potential jobs.
+Navigating to job detail page: https://experis.recman.no/job.php?job_id=415932
+Fetched details for: For vår kunde SpareBank 1 Utvikling søker vi Data Engineer/utvikler til antisvindelprosjekt. (250123)
+Navigating to job detail page: https://experis.recman.no/job.php?job_id=415930
+Fetched details for: For vår kunde SpareBank 1 Utvikling søker vi Dataanalytiker til antisvindelprosjekt. (250124)
+Navigating to job detail page: https://experis.recman.no/job.php?job_id=415908
+Fetched details for: Skyplattformutvikler til offentlig kunde (250122)
+Navigating to job detail page: https://experis.recman.no/job.php?job_id=415800
+Fetched details for: For vår kunde Sparebank 1 søker vi en Teamleder/leder for Fag- og støttesystemer (250121)
+Navigating to job detail page: https://experis.recman.no/job.php?job_id=415576
+Fetched details for: Senior Prosjekt-/prosessleder til Oslo Kommune (250118)
+Navigating to job detail page: https://experis.recman.no/job.php?job_id=415501
+Fetched details for: Frontend-utvikler (250115)
+Navigating to job detail page: https://experis.recman.no/job.php?job_id=415201
+Fetched details for: Senior System Developer (250112)
+Navigating to job detail page: https://experis.recman.no/job.php?job_id=414915
+Waiting for job elements...
+Found 10 jobs.
+An error occurred: Excel save error: Out of bounds. Excel supports columns from 1 to 16384
+Script finished!
+Fetched details for: Generelle sikkerhetstjenester (250107)
+Navigating to job detail page: https://experis.recman.no/job.php?job_id=413892
+Fetched details for: Software Engineer (241238)
+Total detailed jobs fetched: 9
+An error occurred: Excel save error: Out of bounds. Excel supports columns from 1 to 16384
+No cookies to click.
+Found cookie button. Clicking...
+Script finished.
+Waiting for spinner to disappear...
+Spinner removed. Continuing...
+Scrolling through page to load more jobs...
+Found 18 jobs.
+Page loaded.
+Cookie popup closed.
+Scroll finished.
+Found 5 active jobs.
+An error occurred: Excel save error: Out of bounds. Excel supports columns from 1 to 16384
+Location filter opened.
+Finished!
+'Norway' entered.
+First option selected.
+Search button clicked.
+Waiting 10000ms: Waiting for search results...
+Found 13 jobs in Norway from API call #1
+Waiting for job listings...
+Found 10 jobs.
+An error occurred: Error: Excel save error: Out of bounds. Excel supports columns from 1 to 16384
+    at saveToExcel (/Users/janhstrom/puppeteer-scraper/excelUtils.js:108:15)
+    at async /Users/janhstrom/puppeteer-scraper/scrapeEmagine_xls.js:82:29
+Script finished!
+Total 13 jobs collected after API calls.
+A critical error occurred: Error: Excel save error: Out of bounds. Excel supports columns from 1 to 16384
+    at saveToExcel (/Users/janhstrom/puppeteer-scraper/excelUtils.js:108:15)
+    at async main (/Users/janhstrom/puppeteer-scraper/scrapeVerama_xls.js:143:29)
+Browser closed.
+Processed 18 jobs.
+An error occurred: Excel save error: Out of bounds. Excel supports columns from 1 to 16384
+Script finished.
+
+Starting scrapeExperis_xls.js at 2025-01-21T10:32:00.006Z
+
+Starting scrapeForte_xls.js at 2025-01-21T10:32:00.008Z
+
+Starting scrapeWitted_xls.js at 2025-01-21T10:32:00.010Z
+
+Starting scrapeVerama_xls.js at 2025-01-21T10:32:00.011Z
+
+Starting scrapeEmagine_xls.js at 2025-01-21T10:32:00.020Z
+
+Starting scrapeKons_xls.js at 2025-01-21T10:32:00.012Z
+Starting script...
+Starting script...
+Starting script...
+Starting script...
+Starting script...
+Page loaded.
+Cookie popup closed.
+Found 9 potential jobs.
+Navigating to job detail page: https://experis.recman.no/job.php?job_id=415932
+Fetched details for: For vår kunde SpareBank 1 Utvikling søker vi Data Engineer/utvikler til antisvindelprosjekt. (250123)
+Navigating to job detail page: https://experis.recman.no/job.php?job_id=415930
+Fetched details for: For vår kunde SpareBank 1 Utvikling søker vi Dataanalytiker til antisvindelprosjekt. (250124)
+Navigating to job detail page: https://experis.recman.no/job.php?job_id=415908
+No cookies to click.
+Fetched details for: Skyplattformutvikler til offentlig kunde (250122)
+Navigating to job detail page: https://experis.recman.no/job.php?job_id=415800
+Fetched details for: For vår kunde Sparebank 1 søker vi en Teamleder/leder for Fag- og støttesystemer (250121)
+Navigating to job detail page: https://experis.recman.no/job.php?job_id=415576
+Fetched details for: Senior Prosjekt-/prosessleder til Oslo Kommune (250118)
+Navigating to job detail page: https://experis.recman.no/job.php?job_id=415501
+Fetched details for: Frontend-utvikler (250115)
+Navigating to job detail page: https://experis.recman.no/job.php?job_id=415201
+Fetched details for: Senior System Developer (250112)
+Navigating to job detail page: https://experis.recman.no/job.php?job_id=414915
+Fetched details for: Generelle sikkerhetstjenester (250107)
+Navigating to job detail page: https://experis.recman.no/job.php?job_id=413892
+Scroll finished.
+Found 5 active jobs.
+Fetched details for: Software Engineer (241238)
+Total detailed jobs fetched: 9
+An error occurred: Excel save error: Out of bounds. Excel supports columns from 1 to 16384
+An error occurred: Excel save error: Out of bounds. Excel supports columns from 1 to 16384
+Finished!
+Script finished.
+Found 18 jobs.
+Found cookie button. Clicking...
+Waiting for spinner to disappear...
+Spinner removed. Continuing...
+Scrolling through page to load more jobs...
+Waiting for job elements...
+Found 10 jobs.
+An error occurred: Excel save error: Out of bounds. Excel supports columns from 1 to 16384
+Script finished!
+Page loaded.
+Cookie popup closed.
+Location filter opened.
+'Norway' entered.
+First option selected.
+Search button clicked.
+Waiting 10000ms: Waiting for search results...
+Found 13 jobs in Norway from API call #1
+Waiting for job listings...
+Found 10 jobs.
+An error occurred: Error: Excel save error: Out of bounds. Excel supports columns from 1 to 16384
+    at saveToExcel (/Users/janhstrom/puppeteer-scraper/excelUtils.js:108:15)
+    at async /Users/janhstrom/puppeteer-scraper/scrapeEmagine_xls.js:82:29
+Script finished!
+Total 13 jobs collected after API calls.
+A critical error occurred: Error: Excel save error: Out of bounds. Excel supports columns from 1 to 16384
+    at saveToExcel (/Users/janhstrom/puppeteer-scraper/excelUtils.js:108:15)
+    at async main (/Users/janhstrom/puppeteer-scraper/scrapeVerama_xls.js:143:29)
+Browser closed.
+Processed 18 jobs.
+An error occurred: Excel save error: Out of bounds. Excel supports columns from 1 to 16384
+Script finished.
+
+Starting scrapeExperis_xls.js at 2025-01-21T10:33:00.007Z
+
+Starting scrapeVerama_xls.js at 2025-01-21T10:33:00.015Z
+
+Starting scrapeEmagine_xls.js at 2025-01-21T10:33:00.030Z
+
+Starting scrapeKons_xls.js at 2025-01-21T10:33:00.024Z
+
+Starting scrapeWitted_xls.js at 2025-01-21T10:33:00.011Z
+
+Starting scrapeForte_xls.js at 2025-01-21T10:33:00.009Z
+Starting script...
+Starting script...
+Starting script...
+Starting script...
+Starting script...
+Page loaded.
+Cookie popup closed.
+Found 9 potential jobs.
+Navigating to job detail page: https://experis.recman.no/job.php?job_id=415932
+Fetched details for: For vår kunde SpareBank 1 Utvikling søker vi Data Engineer/utvikler til antisvindelprosjekt. (250123)
+Navigating to job detail page: https://experis.recman.no/job.php?job_id=415930
+No cookies to click.
+Fetched details for: For vår kunde SpareBank 1 Utvikling søker vi Dataanalytiker til antisvindelprosjekt. (250124)
+Navigating to job detail page: https://experis.recman.no/job.php?job_id=415908
+Fetched details for: Skyplattformutvikler til offentlig kunde (250122)
+Navigating to job detail page: https://experis.recman.no/job.php?job_id=415800
+Fetched details for: For vår kunde Sparebank 1 søker vi en Teamleder/leder for Fag- og støttesystemer (250121)
+Navigating to job detail page: https://experis.recman.no/job.php?job_id=415576
+Found 18 jobs.
+Waiting for job elements...
+Found 10 jobs.
+An error occurred: Excel save error: Out of bounds. Excel supports columns from 1 to 16384
+Script finished!
+Fetched details for: Senior Prosjekt-/prosessleder til Oslo Kommune (250118)
+Navigating to job detail page: https://experis.recman.no/job.php?job_id=415501
+Scroll finished.
+Found 5 active jobs.
+An error occurred: Excel save error: Out of bounds. Excel supports columns from 1 to 16384
+Fetched details for: Frontend-utvikler (250115)
+Navigating to job detail page: https://experis.recman.no/job.php?job_id=415201
+Finished!
+Fetched details for: Senior System Developer (250112)
+Navigating to job detail page: https://experis.recman.no/job.php?job_id=414915
+Fetched details for: Generelle sikkerhetstjenester (250107)
+Navigating to job detail page: https://experis.recman.no/job.php?job_id=413892
+Fetched details for: Software Engineer (241238)
+Total detailed jobs fetched: 9
+An error occurred: Excel save error: Out of bounds. Excel supports columns from 1 to 16384
+Script finished.
+Page loaded.
+Found cookie button. Clicking...
+Cookie popup closed.
+Waiting for spinner to disappear...
+Spinner removed. Continuing...
+Scrolling through page to load more jobs...
+Location filter opened.
+'Norway' entered.
+First option selected.
+Search button clicked.
+Waiting 10000ms: Waiting for search results...
+Found 13 jobs in Norway from API call #1
+Waiting for job listings...
+Found 10 jobs.
+An error occurred: Error: Excel save error: Out of bounds. Excel supports columns from 1 to 16384
+    at saveToExcel (/Users/janhstrom/puppeteer-scraper/excelUtils.js:108:15)
+    at async /Users/janhstrom/puppeteer-scraper/scrapeEmagine_xls.js:82:29
+Script finished!
+Total 13 jobs collected after API calls.
+A critical error occurred: Error: Excel save error: Out of bounds. Excel supports columns from 1 to 16384
+    at saveToExcel (/Users/janhstrom/puppeteer-scraper/excelUtils.js:108:15)
+    at async main (/Users/janhstrom/puppeteer-scraper/scrapeVerama_xls.js:143:29)
+Browser closed.
+Processed 18 jobs.
+An error occurred: Excel save error: Out of bounds. Excel supports columns from 1 to 16384
+Script finished.
+
+Starting scrapeExperis_xls.js at 2025-01-21T10:34:00.007Z
+
+Starting scrapeForte_xls.js at 2025-01-21T10:34:00.009Z
+
+Starting scrapeWitted_xls.js at 2025-01-21T10:34:00.010Z
+
+Starting scrapeVerama_xls.js at 2025-01-21T10:34:00.011Z
+
+Starting scrapeKons_xls.js at 2025-01-21T10:34:00.013Z
+
+Starting scrapeEmagine_xls.js at 2025-01-21T10:34:00.018Z
+Starting script...
+Starting script...
+Starting script...
+Starting script...
+Starting script...
+Page loaded.
+Cookie popup closed.
+Found 9 potential jobs.
+Navigating to job detail page: https://experis.recman.no/job.php?job_id=415932
+Fetched details for: For vår kunde SpareBank 1 Utvikling søker vi Data Engineer/utvikler til antisvindelprosjekt. (250123)
+Navigating to job detail page: https://experis.recman.no/job.php?job_id=415930
+Fetched details for: For vår kunde SpareBank 1 Utvikling søker vi Dataanalytiker til antisvindelprosjekt. (250124)
+Navigating to job detail page: https://experis.recman.no/job.php?job_id=415908
+Fetched details for: Skyplattformutvikler til offentlig kunde (250122)
+Navigating to job detail page: https://experis.recman.no/job.php?job_id=415800
+Fetched details for: For vår kunde Sparebank 1 søker vi en Teamleder/leder for Fag- og støttesystemer (250121)
+Navigating to job detail page: https://experis.recman.no/job.php?job_id=415576
+Fetched details for: Senior Prosjekt-/prosessleder til Oslo Kommune (250118)
+Navigating to job detail page: https://experis.recman.no/job.php?job_id=415501
+Fetched details for: Frontend-utvikler (250115)
+Navigating to job detail page: https://experis.recman.no/job.php?job_id=415201
+Fetched details for: Senior System Developer (250112)
+Navigating to job detail page: https://experis.recman.no/job.php?job_id=414915
+No cookies to click.
+Fetched details for: Generelle sikkerhetstjenester (250107)
+Navigating to job detail page: https://experis.recman.no/job.php?job_id=413892
+Fetched details for: Software Engineer (241238)
+Total detailed jobs fetched: 9
+An error occurred: Excel save error: Out of bounds. Excel supports columns from 1 to 16384
+Script finished.
+Found 18 jobs.
+Scroll finished.
+Found 5 active jobs.
+No cookie button found.
+Scrolling through page to load more jobs...
+An error occurred: Excel save error: Out of bounds. Excel supports columns from 1 to 16384
+Finished!
+Waiting for job elements...
+Found 10 jobs.
+An error occurred: Excel save error: Out of bounds. Excel supports columns from 1 to 16384
+Script finished!
+Page loaded.
+Cookie popup closed.
+Location filter opened.
+'Norway' entered.
+First option selected.
+Search button clicked.
+Waiting 10000ms: Waiting for search results...
+Found 13 jobs in Norway from API call #1
+Waiting for job listings...
+Found 10 jobs.
+An error occurred: Error: Excel save error: Out of bounds. Excel supports columns from 1 to 16384
+    at saveToExcel (/Users/janhstrom/puppeteer-scraper/excelUtils.js:108:15)
+    at async /Users/janhstrom/puppeteer-scraper/scrapeEmagine_xls.js:82:29
+Script finished!
+Total 13 jobs collected after API calls.
+A critical error occurred: Error: Excel save error: Out of bounds. Excel supports columns from 1 to 16384
+    at saveToExcel (/Users/janhstrom/puppeteer-scraper/excelUtils.js:108:15)
+    at async main (/Users/janhstrom/puppeteer-scraper/scrapeVerama_xls.js:143:29)
+Browser closed.
+Processed 18 jobs.
+An error occurred: Excel save error: Out of bounds. Excel supports columns from 1 to 16384
+Script finished.
+
+Starting scrapeForte_xls.js at 2025-01-21T10:35:00.008Z
+
+Starting scrapeVerama_xls.js at 2025-01-21T10:35:00.011Z
+
+Starting scrapeWitted_xls.js at 2025-01-21T10:35:00.010Z
+
+Starting scrapeExperis_xls.js at 2025-01-21T10:35:00.006Z
+
+Starting scrapeEmagine_xls.js at 2025-01-21T10:35:00.022Z
+
+Starting scrapeKons_xls.js at 2025-01-21T10:35:00.012Z
+Starting script...
+Starting script...
+Starting script...
+Starting script...
+Starting script...
+Page loaded.
+Cookie popup closed.
+Found 9 potential jobs.
+Navigating to job detail page: https://experis.recman.no/job.php?job_id=415932
+Fetched details for: For vår kunde SpareBank 1 Utvikling søker vi Data Engineer/utvikler til antisvindelprosjekt. (250123)
+Navigating to job detail page: https://experis.recman.no/job.php?job_id=415930
+Fetched details for: For vår kunde SpareBank 1 Utvikling søker vi Dataanalytiker til antisvindelprosjekt. (250124)
+Navigating to job detail page: https://experis.recman.no/job.php?job_id=415908
+Fetched details for: Skyplattformutvikler til offentlig kunde (250122)
+Navigating to job detail page: https://experis.recman.no/job.php?job_id=415800
+Fetched details for: For vår kunde Sparebank 1 søker vi en Teamleder/leder for Fag- og støttesystemer (250121)
+Navigating to job detail page: https://experis.recman.no/job.php?job_id=415576
+Fetched details for: Senior Prosjekt-/prosessleder til Oslo Kommune (250118)
+Navigating to job detail page: https://experis.recman.no/job.php?job_id=415501
+No cookies to click.
+Fetched details for: Frontend-utvikler (250115)
+Navigating to job detail page: https://experis.recman.no/job.php?job_id=415201
+Fetched details for: Senior System Developer (250112)
+Navigating to job detail page: https://experis.recman.no/job.php?job_id=414915
+Fetched details for: Generelle sikkerhetstjenester (250107)
+Navigating to job detail page: https://experis.recman.no/job.php?job_id=413892
+Fetched details for: Software Engineer (241238)
+Total detailed jobs fetched: 9
+An error occurred: Excel save error: Out of bounds. Excel supports columns from 1 to 16384
+Script finished.
+Scroll finished.
+Found 5 active jobs.
+An error occurred: Excel save error: Out of bounds. Excel supports columns from 1 to 16384
+Waiting for job elements...
+Found 10 jobs.
+Finished!
+An error occurred: Excel save error: Out of bounds. Excel supports columns from 1 to 16384
+Found 18 jobs.
+Script finished!
+Found cookie button. Clicking...
+Waiting for spinner to disappear...
+Spinner removed. Continuing...
+Scrolling through page to load more jobs...
+Page loaded.
+Cookie popup closed.
+Location filter opened.
+'Norway' entered.
+First option selected.
+Search button clicked.
+Waiting 10000ms: Waiting for search results...
+Found 13 jobs in Norway from API call #1
+Waiting for job listings...
+Found 10 jobs.
+An error occurred: Error: Excel save error: Out of bounds. Excel supports columns from 1 to 16384
+    at saveToExcel (/Users/janhstrom/puppeteer-scraper/excelUtils.js:108:15)
+    at async /Users/janhstrom/puppeteer-scraper/scrapeEmagine_xls.js:82:29
+Script finished!
+Total 13 jobs collected after API calls.
+A critical error occurred: Error: Excel save error: Out of bounds. Excel supports columns from 1 to 16384
+    at saveToExcel (/Users/janhstrom/puppeteer-scraper/excelUtils.js:108:15)
+    at async main (/Users/janhstrom/puppeteer-scraper/scrapeVerama_xls.js:143:29)
+Browser closed.
+Processed 18 jobs.
+An error occurred: Excel save error: Out of bounds. Excel supports columns from 1 to 16384
+Script finished.
+
+Starting scrapeExperis_xls.js at 2025-01-21T10:36:00.007Z
+
+Starting scrapeVerama_xls.js at 2025-01-21T10:36:00.017Z
+
+Starting scrapeKons_xls.js at 2025-01-21T10:36:00.021Z
+
+Starting scrapeForte_xls.js at 2025-01-21T10:36:00.013Z
+
+Starting scrapeWitted_xls.js at 2025-01-21T10:36:00.014Z
+
+Starting scrapeEmagine_xls.js at 2025-01-21T10:36:00.024Z
+Starting script...
+Starting script...
+Starting script...
+Starting script...
+Starting script...
+No cookies to click.
+Page loaded.
+Cookie popup closed.
+Found 9 potential jobs.
+Navigating to job detail page: https://experis.recman.no/job.php?job_id=415932
+Fetched details for: For vår kunde SpareBank 1 Utvikling søker vi Data Engineer/utvikler til antisvindelprosjekt. (250123)
+Navigating to job detail page: https://experis.recman.no/job.php?job_id=415930
+Fetched details for: For vår kunde SpareBank 1 Utvikling søker vi Dataanalytiker til antisvindelprosjekt. (250124)
+Navigating to job detail page: https://experis.recman.no/job.php?job_id=415908
+Fetched details for: Skyplattformutvikler til offentlig kunde (250122)
+Navigating to job detail page: https://experis.recman.no/job.php?job_id=415800
+Found 18 jobs.
+Waiting for job elements...
+Fetched details for: For vår kunde Sparebank 1 søker vi en Teamleder/leder for Fag- og støttesystemer (250121)
+Navigating to job detail page: https://experis.recman.no/job.php?job_id=415576
+Found 10 jobs.
+Found cookie button. Clicking...
+Waiting for spinner to disappear...
+Spinner removed. Continuing...
+Scrolling through page to load more jobs...
+An error occurred: Excel save error: Out of bounds. Excel supports columns from 1 to 16384
+Scroll finished.
+Found 5 active jobs.
+Fetched details for: Senior Prosjekt-/prosessleder til Oslo Kommune (250118)
+Navigating to job detail page: https://experis.recman.no/job.php?job_id=415501
+An error occurred: Excel save error: Out of bounds. Excel supports columns from 1 to 16384
+Script finished!
+Fetched details for: Frontend-utvikler (250115)
+Navigating to job detail page: https://experis.recman.no/job.php?job_id=415201
+Finished!
+Fetched details for: Senior System Developer (250112)
+Navigating to job detail page: https://experis.recman.no/job.php?job_id=414915
+Page loaded.
+Cookie popup closed.
+Location filter opened.
+Fetched details for: Generelle sikkerhetstjenester (250107)
+Navigating to job detail page: https://experis.recman.no/job.php?job_id=413892
+Fetched details for: Software Engineer (241238)
+Total detailed jobs fetched: 9
+An error occurred: Excel save error: Out of bounds. Excel supports columns from 1 to 16384
+Script finished.
+'Norway' entered.
+First option selected.
+Search button clicked.
+Waiting 10000ms: Waiting for search results...
+Found 13 jobs in Norway from API call #1
+Waiting for job listings...
+Found 10 jobs.
+An error occurred: Error: Excel save error: Out of bounds. Excel supports columns from 1 to 16384
+    at saveToExcel (/Users/janhstrom/puppeteer-scraper/excelUtils.js:108:15)
+    at async /Users/janhstrom/puppeteer-scraper/scrapeEmagine_xls.js:82:29
+Script finished!
+Total 13 jobs collected after API calls.
+A critical error occurred: Error: Excel save error: Out of bounds. Excel supports columns from 1 to 16384
+    at saveToExcel (/Users/janhstrom/puppeteer-scraper/excelUtils.js:108:15)
+    at async main (/Users/janhstrom/puppeteer-scraper/scrapeVerama_xls.js:143:29)
+Browser closed.
+Processed 18 jobs.
+An error occurred: Excel save error: Out of bounds. Excel supports columns from 1 to 16384
+Script finished.
+
+Starting scrapeExperis_xls.js at 2025-01-21T12:00:00.015Z
+
+Starting scrapeWitted_xls.js at 2025-01-21T12:00:00.020Z
+
+Starting scrapeForte_xls.js at 2025-01-21T12:00:00.019Z
+
+Starting scrapeEmagine_xls.js at 2025-01-21T12:00:00.024Z
+
+Starting scrapeKons_xls.js at 2025-01-21T12:00:00.023Z
+
+Starting scrapeVerama_xls.js at 2025-01-21T12:00:00.022Z
+Starting script...
+Starting script...
+Starting script...
+Starting script...
+Starting script...
+Page loaded.
+Cookie popup closed.
+Found 9 potential jobs.
+Navigating to job detail page: https://experis.recman.no/job.php?job_id=415932
+Fetched details for: For vår kunde SpareBank 1 Utvikling søker vi Data Engineer/utvikler til antisvindelprosjekt. (250123)
+Navigating to job detail page: https://experis.recman.no/job.php?job_id=415930
+Fetched details for: For vår kunde SpareBank 1 Utvikling søker vi Dataanalytiker til antisvindelprosjekt. (250124)
+Navigating to job detail page: https://experis.recman.no/job.php?job_id=415908
+Fetched details for: Skyplattformutvikler til offentlig kunde (250122)
+Navigating to job detail page: https://experis.recman.no/job.php?job_id=415800
+Fetched details for: For vår kunde Sparebank 1 søker vi en Teamleder/leder for Fag- og støttesystemer (250121)
+Navigating to job detail page: https://experis.recman.no/job.php?job_id=415576
+No cookies to click.
+Fetched details for: Senior Prosjekt-/prosessleder til Oslo Kommune (250118)
+Navigating to job detail page: https://experis.recman.no/job.php?job_id=415501
+Fetched details for: Frontend-utvikler (250115)
+Navigating to job detail page: https://experis.recman.no/job.php?job_id=415201
+Fetched details for: Senior System Developer (250112)
+Navigating to job detail page: https://experis.recman.no/job.php?job_id=414915
+Fetched details for: Generelle sikkerhetstjenester (250107)
+Navigating to job detail page: https://experis.recman.no/job.php?job_id=413892
+Waiting for job elements...
+Fetched details for: Software Engineer (241238)
+Total detailed jobs fetched: 9
+Found 10 jobs.
+Scroll finished.
+Found 6 active jobs.
+An error occurred: Excel save error: Out of bounds. Excel supports columns from 1 to 16384
+An error occurred: Excel save error: Out of bounds. Excel supports columns from 1 to 16384
+An error occurred: Excel save error: Out of bounds. Excel supports columns from 1 to 16384
+Script finished!
+Script finished.
+Finished!
+Found cookie button. Clicking...
+Waiting for spinner to disappear...
+Spinner removed. Continuing...
+Scrolling through page to load more jobs...
+Page loaded.
+Cookie popup closed.
+Location filter opened.
+Found 18 jobs.
+'Norway' entered.
+First option selected.
+Search button clicked.
+Waiting 10000ms: Waiting for search results...
+Found 13 jobs in Norway from API call #1
+Waiting for job listings...
+Found 11 jobs.
+An error occurred: Error: Excel save error: Out of bounds. Excel supports columns from 1 to 16384
+    at saveToExcel (/Users/janhstrom/puppeteer-scraper/excelUtils.js:108:15)
+    at async /Users/janhstrom/puppeteer-scraper/scrapeEmagine_xls.js:82:29
+Script finished!
+Total 13 jobs collected after API calls.
+A critical error occurred: Error: Excel save error: Out of bounds. Excel supports columns from 1 to 16384
+    at saveToExcel (/Users/janhstrom/puppeteer-scraper/excelUtils.js:108:15)
+    at async main (/Users/janhstrom/puppeteer-scraper/scrapeVerama_xls.js:143:29)
+Browser closed.
+Processed 18 jobs.
+An error occurred: Excel save error: Out of bounds. Excel supports columns from 1 to 16384
+Script finished.

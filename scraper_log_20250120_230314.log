@@ -1,0 +1,87 @@
+Starting scrapeExperis_xls.js at Mon Jan 20 23:03:14 CET 2025
+Starting script...
+Page loaded.
+Cookie popup closed.
+Found 10 potential jobs.
+Navigating to job detail page: https://experis.recman.no/job.php?job_id=415932
+Fetched details for: For vår kunde SpareBank 1 Utvikling søker vi Data Engineer/utvikler til antisvindelprosjekt. (250123)
+Navigating to job detail page: https://experis.recman.no/job.php?job_id=415930
+Fetched details for: For vår kunde SpareBank 1 Utvikling søker vi Dataanalytiker til antisvindelprosjekt. (250124)
+Navigating to job detail page: https://experis.recman.no/job.php?job_id=415908
+Fetched details for: Skyplattformutvikler til offentlig kunde (250122)
+Navigating to job detail page: https://experis.recman.no/job.php?job_id=415800
+Fetched details for: For vår kunde Sparebank 1 søker vi en Teamleder/leder for Fag- og støttesystemer (250121)
+Navigating to job detail page: https://experis.recman.no/job.php?job_id=415576
+Fetched details for: Senior Prosjekt-/prosessleder til Oslo Kommune (250118)
+Navigating to job detail page: https://experis.recman.no/job.php?job_id=415501
+Fetched details for: Frontend-utvikler (250115)
+Navigating to job detail page: https://experis.recman.no/job.php?job_id=415260
+Fetched details for: Document Controller (250113)
+Navigating to job detail page: https://experis.recman.no/job.php?job_id=415201
+Fetched details for: Senior System Developer (250112)
+Navigating to job detail page: https://experis.recman.no/job.php?job_id=414915
+Fetched details for: Generelle sikkerhetstjenester (250107)
+Navigating to job detail page: https://experis.recman.no/job.php?job_id=413892
+Fetched details for: Software Engineer (241238)
+Total detailed jobs fetched: 10
+Excel file saved at: /Users/janhstrom/Library/CloudStorage/OneDrive-EiQAS/Documents - Oppdragsliste/jobs_Experis.xlsx
+10 new jobs added.
+Script finished.
+Finished scrapeExperis_xls.js at Mon Jan 20 23:03:17 CET 2025
+----------------------------------------
+Starting scrapeForte_xls.js at Mon Jan 20 23:03:17 CET 2025
+Starting script...
+No cookies to click.
+Scroll finished.
+Found 5 active jobs.
+Excel file saved at: /Users/janhstrom/Library/CloudStorage/OneDrive-EiQAS/Documents - Oppdragsliste/jobs_Forte.xlsx
+5 new jobs added.
+Finished!
+Finished scrapeForte_xls.js at Mon Jan 20 23:03:20 CET 2025
+----------------------------------------
+Starting scrapeWitted_xls.js at Mon Jan 20 23:03:20 CET 2025
+Starting script...
+Found 18 jobs.
+Processed 18 jobs.
+Excel file saved at: /Users/janhstrom/Library/CloudStorage/OneDrive-EiQAS/Documents - Oppdragsliste/jobs_Witted.xlsx
+18 new jobs added.
+Script finished.
+Finished scrapeWitted_xls.js at Mon Jan 20 23:03:46 CET 2025
+----------------------------------------
+Starting scrapeVerama_xls.js at Mon Jan 20 23:03:46 CET 2025
+Starting script...
+Page loaded.
+Cookie popup closed.
+Location filter opened.
+'Norway' entered.
+First option selected.
+Search button clicked.
+Waiting 10000ms: Waiting for search results...
+Found 11 jobs in Norway from API call #1
+Total 11 jobs collected after API calls.
+Excel file saved at: /Users/janhstrom/Library/CloudStorage/OneDrive-EiQAS/Documents - Oppdragsliste/jobs_Verama.xlsx
+11 new jobs added.
+Browser closed.
+Finished scrapeVerama_xls.js at Mon Jan 20 23:04:01 CET 2025
+----------------------------------------
+Starting scrapeKons_xls.js at Mon Jan 20 23:04:01 CET 2025
+Starting script...
+Waiting for job elements...
+Found 11 jobs.
+Excel file saved at: /Users/janhstrom/Library/CloudStorage/OneDrive-EiQAS/Documents - Oppdragsliste/jobs_Kons.xlsx
+11 new jobs added.
+Script finished!
+Finished scrapeKons_xls.js at Mon Jan 20 23:04:03 CET 2025
+----------------------------------------
+Starting scrapeEmagine_xls.js at Mon Jan 20 23:04:03 CET 2025
+Found cookie button. Clicking...
+Waiting for spinner to disappear...
+Spinner removed. Continuing...
+Scrolling through page to load more jobs...
+Waiting for job listings...
+Found 10 jobs.
+Excel file saved at: /Users/janhstrom/Library/CloudStorage/OneDrive-EiQAS/Documents - Oppdragsliste/jobs_Emagine.xlsx
+10 new jobs added.
+Script finished!
+Finished scrapeEmagine_xls.js at Mon Jan 20 23:04:11 CET 2025
+----------------------------------------
