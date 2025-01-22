@@ -2,16 +2,20 @@ name: Run Scrapers
 
 on:
   schedule:
-    - cron: '0 08 * * *'  # Kjører 08:00 UTC
-    - cron: '0 12 * * *'  # Kjører 12:00 UTC
-  workflow_dispatch:  # Lar deg kjøre manuelt fra GitHub
+    - cron: '0 08 * * *'
+    - cron: '0 12 * * *'
+  workflow_dispatch:
 
 jobs:
   scrape:
     runs-on: ubuntu-latest
+    timeout-minutes: 15
+    
     steps:
       - uses: actions/checkout@v2
-      
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}  # Legg til denne linjen
+          
       - name: Set up Node.js
         uses: actions/setup-node@v2
         with:
@@ -26,9 +30,15 @@ jobs:
           NODE_ENV: production
           
       - name: Commit changes
+        if: success()
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
           git add .
           git commit -m "Update job data" || echo "No changes"
-          git push
+      
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}
