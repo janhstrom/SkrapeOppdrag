@@ -1,38 +1,43 @@
-// scheduler.js
-const schedule = require('node-schedule');
 const { spawn } = require('child_process');
 const path = require('path');
 const fs = require('fs');
 
-// Configure logging
+// Konfigurer logging
 const logDir = path.join(__dirname, 'logs');
 if (!fs.existsSync(logDir)) {
     fs.mkdirSync(logDir);
 }
 
-function runScraper(scriptName) {
-    const logFile = path.join(logDir, `scraper_log_${new Date().toISOString().split('T')[0]}.log`);
-    const logStream = fs.createWriteStream(logFile, { flags: 'a' });
-    
-    console.log(`Starting ${scriptName} at ${new Date().toISOString()}`);
-    logStream.write(`\nStarting ${scriptName} at ${new Date().toISOString()}\n`);
+async function runScraper(scriptName) {
+    return new Promise((resolve, reject) => {
+        console.log(`Starting ${scriptName} at ${new Date().toISOString()}`);
+        
+        const scraper = spawn('node', [scriptName], {
+            cwd: __dirname
+        });
 
-    const scraper = spawn('node', [scriptName], {
-        cwd: __dirname
-    });
+        scraper.stdout.on('data', (data) => {
+            console.log(`${scriptName}: ${data}`);
+        });
 
-    scraper.stdout.pipe(logStream);
-    scraper.stderr.pipe(logStream);
+        scraper.stderr.on('data', (data) => {
+            console.error(`${scriptName} error: ${data}`);
+        });
 
-    scraper.on('close', (code) => {
-        const message = `${scriptName} finished with code ${code} at ${new Date().toISOString()}\n`;
-        console.log(message);
-        logStream.write(message);
-        logStream.write('----------------------------------------\n');
+        scraper.on('close', (code) => {
+            console.log(`${scriptName} finished with code ${code}`);
+            resolve(code);
+        });
+
+        // Timeout etter 5 minutter
+        setTimeout(() => {
+            scraper.kill();
+            reject(new Error(`${scriptName} timed out after 5 minutes`));
+        }, 300000);
     });
 }
 
-function runAllScrapers() {
+async function runAllScrapers() {
     const scrapers = [
         'scrapeExperis_xls.js',
         'scrapeForte_xls.js',
@@ -42,41 +47,22 @@ function runAllScrapers() {
         'scrapeEmagine_xls.js'
     ];
 
+    console.log('Starting all scrapers...');
+    
     for (const scraper of scrapers) {
-        runScraper(scraper);
+        try {
+            await runScraper(scraper);
+        } catch (error) {
+            console.error(`Error running ${scraper}:`, error);
+        }
     }
 
-    // Clean up old logs (keep last 7 days)
-    const sevenDaysAgo = new Date();
-    sevenDaysAgo.setDate(sevenDaysAgo.getDate() - 7);
-
-    fs.readdir(logDir, (err, files) => {
-        if (err) throw err;
-
-        files.forEach(file => {
-            const filePath = path.join(logDir, file);
-            fs.stat(filePath, (err, stats) => {
-                if (err) throw err;
-
-                if (stats.mtime < sevenDaysAgo) {
-                    fs.unlink(filePath, err => {
-                        if (err) console.error(`Error deleting ${file}:`, err);
-                    });
-                }
-            });
-        });
-    });
+    console.log('All scrapers finished');
+    process.exit(0);  // Avslutt prosessen eksplisitt
 }
 
-// Schedule jobs for 11 AM and 1 PM CEST
-schedule.scheduleJob('0 09 * * *', () => {
-    console.log('Running 09 AM CEST job');
-    runAllScrapers();
+// Kjør scrapers umiddelbart
+runAllScrapers().catch(error => {
+    console.error('Error in main process:', error);
+    process.exit(1);
 });
-
-schedule.scheduleJob('0 13 * * *', () => {
-    console.log('Running 1 PM CEST job');
-    runAllScrapers();
-});
-
-console.log('Scheduler started. Waiting for scheduled times...');
